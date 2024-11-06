@@ -1,2 +1,1 @@
-this is test file of master.
-this is test file of newbranch.
+this is new text
